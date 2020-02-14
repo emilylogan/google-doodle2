@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Wall-E Google Doodle
+=======
+# Space Google Doodle
+>>>>>>> 83b554531ac54bfbb7a143dd1a722607e1c655c5
 
 I chose to make my Google Doodle about Wall-E because I really like the movie. Also, Wall-E's 11-year anniversary is coming up on the 27th of June so why not create a doodle to celebrate Wall-E's birthday. 
 
@@ -9,6 +13,7 @@ For the doodle I would like to have Wall-E and his girlfriend Eve flying around 
 ## Collage
 [Link to Figma Collage] (https://www.figma.com/file/FF3EbYj37MaTlMkm2DoamK/Google-Doodle?node-id=0%3A1)
 
+<<<<<<< HEAD
 ## Resources
 [Wall-E Images]
     (https://vignette.wikia.nocookie.net/pixar/images/d/de/Wall%E2%80%A2e_clipped_rev_1.png/revision/latest?cb=20170807223723)
@@ -21,3 +26,8 @@ For the doodle I would like to have Wall-E and his girlfriend Eve flying around 
 [Space Images] 
     (https://assets3.thrillist.com/v1/image/2794471/size/sk-2017_04_standard_listing_desktop.jpg)
     (https://specials-images.forbesimg.com/imageserve/1035676256/960x0.jpg?fit=scale)
+=======
+## Resources 
+
+* [Space background from ____] (Link here :D)
+>>>>>>> 83b554531ac54bfbb7a143dd1a722607e1c655c5
