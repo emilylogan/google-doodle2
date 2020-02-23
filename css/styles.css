@@ -9,10 +9,10 @@
     outline: 1px dotted black;
 }
 
-body {
-  background: url(img/space.png);
-}
-
-body {
-  background: url(../img/space.png);
+/* Doodle Stage */
+#stage {
+  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRu6m82MmIh_AfvpI45uXP2wghVN4HApue3rdo0R1TFSpHz_AWb);
+  height: 350px;
+  width: 650px;
+  overflow:hidden;
 }
