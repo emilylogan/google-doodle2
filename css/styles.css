@@ -11,20 +11,34 @@
 
 /* Doodle Stage */
 #stage {
-  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRu6m82MmIh_AfvpI45uXP2wghVN4HApue3rdo0R1TFSpHz_AWb);
+  background: url();
   height: 350px;
   width: 650px;
   overflow:hidden;
 }
 
+.image {
+  position: relative;
+}
+#walle {
+  height: 260px;
+  top: 110px;
+  left: 230px;
+}
+
 #eve {
-  height: 100px;
+  height: 200px;
+  top: -75px;
+  left: -200px;
 }
 
-#google {
-  width: 400px;
+#googlelogo {
+  height: 475px;
+  top: -310px;
+  left: 150px;
 }
 
-#googleLogo {
-  height: 300px;
+#spaceship {
+  height: 200px;
+  top: -75px;
 }
