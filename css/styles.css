@@ -1,17 +1,10 @@
 /* My Awesome Styles */
 
-/* Diagnostic Styling 
-  * Change Background Color
-  * Outline Elements
-*/
 
-* {
-    outline: 1px dotted black;
-}
 
 /* Doodle Stage */
 #stage {
-  background: url();
+  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRu6m82MmIh_AfvpI45uXP2wghVN4HApue3rdo0R1TFSpHz_AWb);
   height: 350px;
   width: 650px;
   overflow:hidden;
@@ -20,6 +13,12 @@
 .image {
   position: relative;
 }
+
+#star {
+  height: 350px;
+  width: 650px;
+}
+
 #walle {
   height: 260px;
   top: 110px;
@@ -34,11 +33,18 @@
 
 #googlelogo {
   height: 475px;
-  top: -310px;
-  left: 150px;
+  top: -320px;
+  left: 0px;
 }
 
-#spaceship {
+/* #spaceship {
   height: 200px;
   top: -75px;
+}
+*/
+
+#heart {
+  height: 125px;
+  top: -40px;
+  left: -175px;
 }
